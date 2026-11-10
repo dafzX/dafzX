@@ -1,57 +1,45 @@
-
 <div align="center">
 
-# DAFA ARDI
+# 👋 Hi, I'm Dafa Ardi
 
-**CREATIVE DEVELOPER · FRONTEND DEVELOPER**
+### Creative Developer · Frontend Developer
 
-Building digital experiences with creativity.
+I build thoughtful, modern web experiences with a focus on **clean interfaces** and **creative interactions**.
 
-Indonesia 🇮🇩
+📍 Indonesia
 
-[Portfolio](https://your-portfolio.com) · [GitHub](https://github.com/your-username) · [Email](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dafzX-181717?style=for-the-badge&logo=github)](https://github.com/dafzX)
 
 </div>
 
 ---
 
-### 01 / DEVELOPER PROFILE
+## 👨‍💻 About Me
 
-```text
-DAFA ARDI
-────────────────────────────────
+| | |
+|---|---|
+| **Role** | Frontend Developer |
+| **Focus** | Web Development & UI Engineering |
+| **Interests** | Creative Coding and Interactive Experiences |
+| **Currently** | Building, experimenting, and learning |
+| **Mindset** | Learn · Build · Improve |
+| **Open to** | Collaboration and creative projects |
 
-ROLE       Frontend Developer
-FOCUS      Web Development
-INTEREST   UI Engineering & Creative Coding
-CURRENT    Building and experimenting
-MINDSET    Learn · Build · Improve
-STATUS     Open to collaboration
-```
+## 🧰 Tech Stack
 
-### 02 / TECHNOLOGIES
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,nodejs,supabase,git&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,nodejs,supabase,git&theme=dark" alt="Technologies: HTML, CSS, JavaScript, TypeScript, React, Vue, Tailwind CSS, Node.js, Supabase, and Git" />
 </p>
 
-### 03 / CURRENT FOCUS
+## 🎯 What I'm Focusing On
 
-- Developing modern web applications.
-- Exploring frontend engineering.
-- Learning interactive web experiences.
-- Building creative digital projects.
+- Building modern web applications.
+- Growing my frontend engineering skills.
+- Exploring interactive and delightful web experiences.
+- Creating digital projects that balance design and function.
 
-### 04 / CONNECT WITH ME
+## 🤝 Connect
 
-- Portfolio: https://your-portfolio.com
-- GitHub: https://github.com/your-username
-- Email: your-email@gmail.com
+Want to collaborate or talk about a project? Find me on [GitHub](https://github.com/dafzX).
 
----
-
-<div align="center">
-
-**LEARN · BUILD · IMPROVE**
-
-</div>
+> **LEARN · BUILD · IMPROVE**
