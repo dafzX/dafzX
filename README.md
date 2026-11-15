@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Dafa Ardi - Creative Frontend Developer" />
+<img src="./header.svg" width="100%" alt="DAFZ - Creative Frontend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2600&pause=900&color=38E1FF&center=true&vCenter=true&repeat=true&width=720&lines=%3E+booting+portfolio.exe...;%3E+loading+interactive+world...+100%25;%3E+new+quest+available%3A+explore+my+work!;%3E+press+START+to+continue" alt="typing" />
 
@@ -10,19 +10,19 @@
 [![GitHub](https://img.shields.io/badge/PLAYER-DAFZX-0B2A4A?style=for-the-badge&logo=github&logoColor=38E1FF)](https://github.com/dafzX)
 [![Views](https://komarev.com/ghpvc/?username=dafzX&style=for-the-badge&color=0B2A4A&label=PLAYERS+VISITED)](https://github.com/dafzX)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## ◆ MAIN MENU ◆
 
 [**▶ NEW GAME**](https://YOUR_PORTFOLIO_URL) &nbsp;&nbsp;│&nbsp;&nbsp; [**📜 QUEST LOG**](#-quest-log) &nbsp;&nbsp;│&nbsp;&nbsp; [**🎒 INVENTORY**](#-inventory) &nbsp;&nbsp;│&nbsp;&nbsp; [**📊 STATS**](#-player-stats)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
-<img src="assets/status.svg" width="100%" alt="Player status" />
+<img src="./status.svg" width="100%" alt="Player status" />
 
 <sub><i>"Great interfaces aren't just seen. They're experienced."</i></sub>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🎒 INVENTORY
 
@@ -37,7 +37,7 @@
 | 🎨 Tailwind CSS | Armor | Styling rapi dan responsif |
 | 🧭 Lenis | Accessory | Smooth scroll yang halus |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 📜 QUEST LOG
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🏆 ACHIEVEMENTS
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 🐍 MINI GAME: CONTRIBUTION SNAKE
 
@@ -123,7 +123,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dafzX/dafzX/output/github-snake-dark.svg" />
 </picture>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 📊 PLAYER STATS
 
@@ -134,7 +134,7 @@
 
 <img width="70%" src="https://streak-stats.demolab.com?user=dafzX&theme=dark&hide_border=true&background=07101F&ring=38E1FF&fire=FF4D8D&currStreakLabel=38E1FF&sideLabels=E8F6FF&dates=7FA6C2" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## 💬 MULTIPLAYER MODE
 
