@@ -1,23 +1,14 @@
- <!-- README.md -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111318,50:8B1824,100:E63946&height=190&section=header&text=DAFA%20ARDI&fontSize=58&fontColor=F4F0E8&fontAlignY=42&desc=CREATIVE%20FRONTEND%20DEVELOPER&descSize=15&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111318,50:8B1824,100:E63946&height=200&section=header&text=DAFA%20ARDI&fontSize=60&fontColor=F4F0E8&fontAlignY=38&desc=%E2%96%B6%20PRESS%20START&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&color=E63946&center=true&vCenter=true&repeat=true&width=700&lines=PLAYER+1+READY...;CLASS%3A+CREATIVE+FRONTEND+DEV;LOADING+WORLD...+100%25;NEW+QUEST+AVAILABLE!" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&repeat=true&width=500&lines=DESIGN.+CODE.+CREATE.;BUILDING+DIGITAL+EXPERIENCES.;TURNING+IDEAS+INTO+REALITY." alt="Typing SVG" />
-
-<br/>
-
-**CREATIVE DEVELOPER / FRONTEND ENGINEER / UI ENTHUSIAST**
-
-*I build thoughtful, modern web experiences with a focus on clean interfaces, creative interactions, and meaningful digital products.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-DAFZX-111318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafzX)
-[![Profile Views](https://komarev.com/ghpvc/?username=dafzX&style=for-the-badge&color=E63946&label=PROFILE+VIEWS)](https://github.com/dafzX)
+[![PLAY NOW](https://img.shields.io/badge/%E2%96%B6%20PLAY%20MY%20PORTFOLIO-E63946?style=for-the-badge&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/PLAYER-DAFZX-111318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafzX)
+[![Views](https://komarev.com/ghpvc/?username=dafzX&style=for-the-badge&color=E63946&label=PLAYERS+VISITED)](https://github.com/dafzX)
 
 </div>
 
@@ -25,126 +16,143 @@
 
 <div align="center">
 
-### 「 01 」 — ABOUT ME
+## ★ MAIN MENU ★
 
-**HELLO, WORLD. I'M DAFA.**
+| | | |
+|:---:|:---:|:---:|
+| **[▶ NEW GAME](https://YOUR_PORTFOLIO_URL)** | **[📜 QUEST LOG](#-quest-log)** | **[🎒 INVENTORY](#-inventory)** |
+| *Jelajahi portfolio interaktifku* | *Lihat proyek-proyekku* | *Lihat tech stack-ku* |
 
 </div>
 
-I'm a creative developer from Indonesia who enjoys transforming ideas into engaging digital experiences.
+---
 
-My main interest is frontend development, especially creating modern interfaces that combine visual design, usability, and interactive experiences.
+## 🧙 PLAYER STATUS
 
-- **Role:** Creative Frontend Developer
-- **Focus:** Web Development & UI Engineering
-- **Interests:** Creative Coding, UI/UX, Interactive Experiences
-- **Currently:** Building, experimenting, and learning.
-- **Mindset:** Learn. Build. Improve.
+```text
+╔══════════════════════════════════════════╗
+║  NAME   : DAFA ARDI                      ║
+║  CLASS  : Creative Frontend Developer    ║
+║  GUILD  : Sistem Informasi               ║
+║  LEVEL  : ∞ (always leveling up)         ║
+╠══════════════════════════════════════════╣
+║  HP  ████████████████████ 100%           ║
+║  MP  ██████████████░░░░░░  70%  (coffee) ║
+║  XP  ████████████████░░░░  80%           ║
+╠══════════════════════════════════════════╣
+║  STR (Frontend)  ████████████████░░░░    ║
+║  INT (UI/UX)     ██████████████░░░░░░    ║
+║  AGI (Animation) ████████████████░░░░    ║
+║  LUK (Debugging) ██████████░░░░░░░░░░    ║
+╚══════════════════════════════════════════╝
+```
 
-> "Great interfaces aren't just seen. They're experienced."
+> *"Great interfaces aren't just seen. They're experienced."*
 
 ---
 
+## 🎒 INVENTORY
+
 <div align="center">
-
-### 「 02 」 — TECH ARSENAL
-
-**TOOLS I USE TO BRING IDEAS TO LIFE.**
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,git,github,vite&theme=dark&perline=6" />
 
 </div>
 
----
-
-<div align="center">
-
-### 「 03 」 — CURRENT FOCUS
-
-**WHAT I'M WORKING ON RIGHT NOW.**
-
-</div>
-
-| AREA | FOCUS |
-|:---|:---|
-| FRONTEND | Building modern and responsive web interfaces |
-| UI / UX | Exploring creative layouts and design systems |
-| ANIMATION | Creating smooth and meaningful interactions |
-| ENGINEERING | Improving code quality and architecture |
-| LEARNING | Exploring modern frontend technologies |
+| ITEM | TYPE | EFFECT |
+|:---|:---|:---|
+| ⚛️ React / Next.js | Weapon | Bangun UI yang cepat dan modular |
+| 🎞️ GSAP / Motion | Magic | +100 Animation Power |
+| 🎨 Tailwind CSS | Armor | Styling rapi dan responsif |
+| 🧭 Lenis | Accessory | Smooth scroll yang halus |
 
 ---
 
-<div align="center">
+## 📜 QUEST LOG
 
-### 「 04 」 — SELECTED PROJECTS
+<details>
+<summary><b>🌱 QUEST 01 — ECOQUEST</b> &nbsp;·&nbsp; ⭐⭐⭐⭐ &nbsp;·&nbsp; <i>klik untuk buka</i></summary>
+<br/>
 
-**SOME IDEAS I'VE TURNED INTO DIGITAL PRODUCTS.**
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 ECOQUEST
-
-**Environmental Gamification Platform**
-
-A platform that encourages sustainable habits through missions, challenges, and gamification.
+**Reward:** Platform gamifikasi untuk kebiasaan ramah lingkungan lewat misi dan tantangan.
 
 `Vue.js` `Tailwind CSS` `JavaScript`
 
-</td>
-<td width="50%" valign="top">
+[▶ Start Quest](https://YOUR_ECOQUEST_URL)
 
-### ⚡ NEXORA
+</details>
 
-**Modern Electronics E-Commerce**
+<details>
+<summary><b>⚡ QUEST 02 — NEXORA</b> &nbsp;·&nbsp; ⭐⭐⭐ &nbsp;·&nbsp; <i>klik untuk buka</i></summary>
+<br/>
 
-An electronics shopping experience focused on modern interfaces, product discovery, and user-friendly interactions.
+**Reward:** E-commerce elektronik dengan antarmuka modern dan pencarian produk yang nyaman.
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[▶ Start Quest](https://YOUR_NEXORA_URL)
 
-### 🌏 NUSANTARA EXPLORE TOUR
+</details>
 
-**Travel & Exploration Website**
+<details>
+<summary><b>🌏 QUEST 03 — NUSANTARA EXPLORE TOUR</b> &nbsp;·&nbsp; ⭐⭐⭐ &nbsp;·&nbsp; <i>klik untuk buka</i></summary>
+<br/>
 
-A web project focused on exploring destinations and presenting travel experiences.
+**Reward:** Website wisata untuk menjelajahi destinasi dan pengalaman perjalanan.
 
 `Frontend Development`
 
-</td>
-<td width="50%" valign="top">
+[▶ Start Quest](https://YOUR_NUSANTARA_URL)
 
-### 🎨 PERSONAL PORTFOLIO
+</details>
 
-**Creative Digital Portfolio**
+<details>
+<summary><b>🎨 FINAL BOSS — PERSONAL PORTFOLIO</b> &nbsp;·&nbsp; ⭐⭐⭐⭐⭐ &nbsp;·&nbsp; <i>klik untuk buka</i></summary>
+<br/>
 
-An experimental portfolio exploring bold visual identity, motion design, and interactive storytelling.
+**Reward:** Portfolio eksperimental dengan identitas visual berani, motion design, dan storytelling interaktif.
 
 `Next.js` `Tailwind CSS` `GSAP`
 
-</td>
-</tr>
-</table>
+[⚔️ CHALLENGE THE BOSS](https://YOUR_PORTFOLIO_URL)
+
+</details>
 
 ---
 
+## 🏆 ACHIEVEMENTS
+
+<details>
+<summary><b>Lihat pencapaian (klik)</b></summary>
+<br/>
+
+- 🥇 **First Commit** — memulai perjalanan coding
+- 🎨 **Pixel Perfectionist** — membuat UI yang rapi sampai detail
+- 🎞️ **Motion Master** — membuat animasi yang halus dan bermakna
+- 🌱 **Eco Warrior** — membangun produk dengan dampak positif
+- 🔓 **Secret Unlocked** — kamu menemukan achievement tersembunyi, sekarang buka [portfolioku](https://YOUR_PORTFOLIO_URL)!
+
+</details>
+
+---
+
+## 🐍 MINI GAME: CONTRIBUTION SNAKE
+
 <div align="center">
 
-### 「 05 」 — GITHUB STATISTICS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dafzX/dafzX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dafzX/dafzX/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dafzX/dafzX/output/github-snake-dark.svg" />
+</picture>
 
-**MY JOURNEY, WRITTEN IN CODE.**
+</div>
 
-<br/>
+---
+
+## 📊 PLAYER STATS
+
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dafzX&show_icons=true&hide_border=true&bg_color=111318&title_color=E63946&icon_color=E63946&text_color=F4F0E8&ring_color=E63946" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafzX&layout=compact&hide_border=true&bg_color=111318&title_color=E63946&text_color=F4F0E8" />
@@ -153,51 +161,23 @@ An experimental portfolio exploring bold visual identity, motion design, and int
 
 <img width="70%" src="https://streak-stats.demolab.com?user=dafzX&theme=dark&hide_border=true&background=111318&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=F4F0E8&dates=858585" />
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dafzX&bg_color=111318&color=F4F0E8&line=E63946&point=F4F0E8&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
-
 </div>
 
 ---
 
 <div align="center">
 
-### 「 06 」 — BEYOND THE CODE
+## 💬 MULTIPLAYER MODE
 
-**I BELIEVE IN CONTINUOUS IMPROVEMENT.**
+**Punya ide? Ayo bikin sesuatu bareng.**
 
-I enjoy exploring new technologies, experimenting with creative ideas, and challenging myself to build better digital experiences.
-
-<br/>
-
-<img src="https://img.shields.io/badge/LEARN-111318?style=flat-square&labelColor=E63946" />
-<img src="https://img.shields.io/badge/BUILD-111318?style=flat-square&labelColor=E63946" />
-<img src="https://img.shields.io/badge/IMPROVE-111318?style=flat-square&labelColor=E63946" />
-
-</div>
-
----
-
-<div align="center">
-
-### 「 07 」 — LET'S CONNECT
-
-**HAVE AN IDEA? LET'S BUILD SOMETHING.**
-
-I'm always interested in learning, collaborating, and exploring creative projects.
-
-<br/>
-
+[![Portfolio](https://img.shields.io/badge/▶_PLAY_PORTFOLIO-E63946?style=for-the-badge)](https://YOUR_PORTFOLIO_URL)
 [![GitHub](https://img.shields.io/badge/GITHUB-111318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafzX)
 
 <br/>
 
-<sub>DESIGNED WITH PASSION. BUILT WITH CURIOSITY.</sub>
+<sub>GAME OVER? NEVER. &nbsp;▶&nbsp; INSERT COIN TO CONTINUE</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111318,100:E63946&height=85&section=footer" width="100%" />
-
-**© 2026 DAFA ARDI — ALL RIGHTS RESERVED.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111318,100:E63946&height=100&section=footer" width="100%" />
 
 </div>
-
