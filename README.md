@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-[![PLAY PORTFOLIO](https://img.shields.io/badge/%E2%96%B6%20PLAY%20MY%20PORTFOLIO-38E1FF?style=for-the-badge&labelColor=050B1A&color=38E1FF)](https://YOUR_PORTFOLIO_URL)
+[![PLAY PORTFOLIO](https://img.shields.io/badge/%E2%96%B6%20PLAY%20MY%20PORTFOLIO-38E1FF?style=for-the-badge&labelColor=050B1A&color=38E1FF)](https://portofolio-dafz-seven.vercel.app/)
 [![GitHub](https://img.shields.io/badge/PLAYER-DAFZX-0B2A4A?style=for-the-badge&logo=github&logoColor=38E1FF)](https://github.com/dafzX)
 [![Views](https://komarev.com/ghpvc/?username=dafzX&style=for-the-badge&color=0B2A4A&label=PLAYERS+VISITED)](https://github.com/dafzX)
 
@@ -14,7 +14,7 @@
 
 ## ◆ MAIN MENU ◆
 
-[**▶ NEW GAME**](https://YOUR_PORTFOLIO_URL) &nbsp;&nbsp;│&nbsp;&nbsp; [**📜 QUEST LOG**](#-quest-log) &nbsp;&nbsp;│&nbsp;&nbsp; [**🎒 INVENTORY**](#-inventory) &nbsp;&nbsp;│&nbsp;&nbsp; [**📊 STATS**](#-player-stats)
+[**▶ NEW GAME**](https://portofolio-dafz-seven.vercel.app/) &nbsp;&nbsp;│&nbsp;&nbsp; [**📜 QUEST LOG**](#-quest-log) &nbsp;&nbsp;│&nbsp;&nbsp; [**🎒 INVENTORY**](#-inventory) &nbsp;&nbsp;│&nbsp;&nbsp; [**📊 STATS**](#-player-stats)
 
 <img src="./divider.svg" width="100%" alt="" />
 
