@@ -140,7 +140,7 @@
 
 **Punya ide? Ayo bikin sesuatu bareng.**
 
-[![Portfolio](https://img.shields.io/badge/%E2%96%B6%20PLAY%20PORTFOLIO-38E1FF?style=for-the-badge&labelColor=050B1A&color=38E1FF)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/%E2%96%B6%20PLAY%20PORTFOLIO-38E1FF?style=for-the-badge&labelColor=050B1A&color=38E1FF)](https://portofolio-dafz-seven.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-0B2A4A?style=for-the-badge&logo=github&logoColor=38E1FF)](https://github.com/dafzX)
 
 <sub>GAME OVER? NEVER. &nbsp;▶&nbsp; INSERT COIN TO CONTINUE</sub>
