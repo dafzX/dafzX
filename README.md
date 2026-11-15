@@ -127,12 +127,7 @@
 
 ## 📊 PLAYER STATS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dafzX&show_icons=true&hide_border=true&bg_color=07101F&title_color=38E1FF&icon_color=38E1FF&text_color=E8F6FF&ring_color=38E1FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafzX&layout=compact&hide_border=true&bg_color=07101F&title_color=38E1FF&text_color=E8F6FF" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=dafzX&theme=dark&hide_border=true&background=07101F&ring=38E1FF&fire=FF4D8D&currStreakLabel=38E1FF&sideLabels=E8F6FF&dates=7FA6C2" />
+<img width="85%" src="https://streak-stats.demolab.com?user=dafzX&theme=dark&hide_border=true&background=07101F&ring=38E1FF&fire=FF4D8D&currStreakLabel=38E1FF&sideLabels=E8F6FF&dates=7FA6C2" />
 
 <img src="./divider.svg" width="100%" alt="" />
 
